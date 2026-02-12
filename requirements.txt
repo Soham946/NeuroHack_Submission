@@ -1,0 +1,6 @@
+llama-cpp-python
+gradio
+chromadb
+sentence-transformers
+huggingface_hub
+numpy==1.26.4
