@@ -15,7 +15,8 @@ Our system solves the "Goldfish Memory" problem using a specialized RAG pipeline
 
 ##  Key Features (Evaluation Criteria Met)
 * **Accuracy:** successfully recalls specific facts from Turn 1 at Turn 1,000+.
-* **Real-Time Latency:** Uses `Llama-3-8B-GGUF` with GPU acceleration for < 2s response times.
+* **Real-Time Latency:** Uses `Llama-3-8B-GGUF` with GPU acceleration for <<img width="1311" height="592" alt="Screenshot 2026-02-13 235025" src="https://github.com/user-attachments/assets/17de529f-8849-4e1e-bb97-c9f0d7ff24ce" />
+ 2s response times.
 * **Structured Output:** Logs the required `active_memories` JSON structure for auditability.
 * **Robustness:** Uses GGUF quantification to avoid PyTorch dependency conflicts.
 
@@ -32,4 +33,8 @@ Our system solves the "Goldfish Memory" problem using a specialized RAG pipeline
 3.  Access the Web UI at the local URL.
 
 ## Functionality
-<img width="1314" height="577" alt="image" src="https://github.com/user-attachments/assets/57a7e1eb-7a69-4ea0-813c-4b1e8b512091" />
+<img width="1295" height="586" alt="Screenshot 2026-02-13 235012" src="https://github.com/user-attachments/assets/0cd15ceb-f783-4fbf-b4e5-b05f018980b9" />
+<img width="1311" height="592" alt="Screenshot 2026-02-13 235025" src="https://github.com/user-attachments/assets/ba2dee9b-5545-4d08-9289-3bede0ec922b" />
+<img width="901" height="575" alt="Screenshot 2026-02-13 235131" src="https://github.com/user-attachments/assets/1ca70c29-54f2-4d75-be19-602110904449" />
+
+
